@@ -1,4 +1,4 @@
-# ***`Welcome To My User Page`***
+# ***`Welcome To My Page`***
 
   *`Favorite Quote:`*
 > "When I wrote this code, only God and I understood what I did. Now only God knows." 
@@ -17,9 +17,9 @@
 
 
 `My Grocery Shopping List`
-* Rice
-* Soy sauce
-* Pork
+- [x] Rice
+- [ ] Soy sauce
+- [x] Pork
 - - -
 
 `My GitHub link:`
