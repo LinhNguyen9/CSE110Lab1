@@ -4,7 +4,7 @@
 > "When I wrote this code, only God and I understood what I did. Now only God knows." 
 - - -
 - - -
-`About Myself:`
+About Myself:
 - Hello, my name is Linh Nguyen. I'm a senior in Computer Engineering at UCSD.
 - My favorate programming language is C++ and my favorate DUI is VSCode. 
 - I enjoy hanging out with my friends and wandering the beaches and parks.
